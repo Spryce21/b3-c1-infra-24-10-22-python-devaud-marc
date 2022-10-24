@@ -1,0 +1,145 @@
+3) print "Hello "+"Marc DEVAUD"
+
+4) print("How do you make a hot dog stand?")
+   print("You take away its chair!")
+
+5)todays_date = 24
+
+6)product = 10*9
+print (product)
+
+remainder = 1398%11
+print (remainder)
+
+7)january_to_june_rainfall = 1.93 + 0.71 + 3.53 + 3.41 + 3.69 + 4.50
+annual_rainfall = january_to_june_rainfall
+
+july_rainfall = 1.05
+annual_rainfall += july_rainfall
+
+august_rainfall = 4.91
+annual_rainfall += august_rainfall 
+
+september_rainfall = 5.16
+october_rainfall = 7.20
+november_rainfall = 5.06
+december_rainfall = 4.06
+annual_rainfall += september_rainfall+october_rainfall+november_rainfall+december_rainfall
+
+8)city_name = "St. Potatosburg"
+
+#Thaht mean the number of people 
+city_pop = 340000
+
+9)cucumbers = 5
+
+price_per_cucumber=3.25
+
+total_cost= cucumbers * price_per_cucumber
+
+print(total_cost)
+
+10)
+cucumbers = 100
+
+num_people=6
+
+whole_cucumbers_per_person = cucumbers/num_people
+print (whole_cucumbers_per_person)
+
+float_cucumbers_per_person = 100./6
+print (float_cucumbers_per_person)
+
+11)
+haiku="""The old pond,
+A frog jumps in:
+Plop!"""
+
+12)
+age_is_12 = False 
+name_is_maria = True
+
+13)
+float_1 = 0.25
+float_2 = 40.0
+
+product = float_1 * float_2
+big_string = "The product was " + str(product)
+
+14)
+skill_completed = "Python"
+exercises_completed = 13
+#voici un commentaire
+points_per_exercise = 5
+point_total = 100
+point_total += exercises_completed*points_per_exercise
+
+print("I got "+str(point_total)+" points!")
+
+Lessons 2
+
+1)# Set the variable brian on line 3!
+
+brian = "Hello life!"
+
+2)
+# Assign your variables below, each on its own line!
+
+caesar = "Graham"
+praline = "John"
+viking = "Teresa"
+
+# Put your variables above this line
+
+print caesar 
+print praline 
+print viking 
+
+3)
+'This isn\'t flying, this is falling with style!'
+
+4)
+
+fifth_letter = "MONTY"[4]
+
+print fifth_letter
+
+5)parrot = "Norwegian Blue"
+print len(parrot)
+
+6)
+parrot = "Norwegian Blue"
+print "Norwegian Blue".lower()
+
+7)
+parrot = "norwegian blue"
+print parrot.upper()
+
+8)
+pi = 3.14
+print str(pi)
+
+9)
+ministry = "The Ministry of Silly Walks"
+
+print len(ministry)
+print ministry.upper()
+
+10)
+
+print "Monty Python"
+
+11)
+the_machine_goes = "Ping!"
+print the_machine_goes
+
+
+
+
+
+
+
+
+
+
+

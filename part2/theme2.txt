@@ -1,0 +1,92 @@
+Lessons 2
+
+1)# Set the variable brian on line 3!
+
+brian = "Hello life!"
+
+2)
+# Assign your variables below, each on its own line!
+
+caesar = "Graham"
+praline = "John"
+viking = "Teresa"
+
+# Put your variables above this line
+
+print caesar 
+print praline 
+print viking 
+
+3)
+'This isn\'t flying, this is falling with style!'
+
+4)
+
+fifth_letter = "MONTY"[4]
+
+print fifth_letter
+
+5)parrot = "Norwegian Blue"
+print len(parrot)
+
+6)
+parrot = "Norwegian Blue"
+print "Norwegian Blue".lower()
+
+7)
+parrot = "norwegian blue"
+print parrot.upper()
+
+8)
+pi = 3.14
+print str(pi)
+
+9)
+ministry = "The Ministry of Silly Walks"
+
+print len(ministry)
+print ministry.upper()
+
+10)
+
+print "Monty Python"
+
+11)
+the_machine_goes = "Ping!"
+print the_machine_goes
+
+12)
+print "Spam " + "and " + "eggs"
+
+13)
+string_1 = "Camelot"
+string_2 = "place"
+
+print "Let's not go to %s. 'Tis a silly %s." % (string_1, string_2)
+
+14)
+
+name = "Alex"
+quest = "Teaching Python"
+color = "Blue"
+
+print "Ah, so your name is %s, your quest is %s, " \
+"and your favorite color is %s." % (name, quest, color)
+
+15)
+
+my_string = "test"
+print len(my_string)
+print my_string.upper()
+
+Date time
+
+1)
+from datetime import datetime
+
+2)
+from datetime import datetime
+
+now = datetime.now()
+print now
+
